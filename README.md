@@ -18,7 +18,7 @@ This project demonstrates how SQL can be used to analyze retail sales data and e
 2. In which city is each branch?
 
 
-Product
+**Product**
 1. How many unique product lines does the data have?
 2. What is the most common payment method?
 3. What is the most selling product line?
@@ -33,14 +33,14 @@ Product
 12. What is the average rating of each product line?
 
 
-Sales
+**Sales**
 1. Number of sales made at each time of the day per weekday
 2. Which of the customer types brings the most revenue?
 3. Which city has the largest tax percent/ VAT (Value Added Tax)?
 4. Which customer type pays the most in VAT?
 
 
-Customer
+**Customer**
 1. How many unique customer types does the data have?
 2. How many unique payment methods does the data have?
 3. What is the most common customer type?

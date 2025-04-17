@@ -6,10 +6,10 @@ SQL: MySQL for querying and data analysis.
 
 Data Analysis: Aggregating and analyzing sales data to derive business insights.
 
-Purpose of the Project:
+**Purpose of the Project:**
 This project demonstrates how SQL can be used to analyze retail sales data and extract insights that help businesses make data-driven decisions. By analyzing key metrics like total sales, customer types, and gender distribution, the project provides a clear view of Walmart's sales performance and customer preferences.
 
-Generic Question
+**Generic Question**
 1. How many unique cities does the data have?
 2. In which city is each branch?
 
